@@ -17,8 +17,9 @@
     5. Após descompactar, procure pelo arquivo "index.html" dentro da pasta do projeto e clique duas vezes neles para acessar.
 
 # Estrutura de Pastas:
-    - HTML: Utilizei pra criar a estrutura da página.
-    - CSS : Utilizei pra estilizar e posicionar os elementos HTML.
+    index.html : Contém a estrutura da página e não pode ficar dentro de pasta alguma.
+    script.js  : Contém a parte lógica da página, é onde está o código que efetuará o cálculo do IMC.
+    style.css  : Contém a estilização dos elementos HTML da página.
 
 # Funcionalidades:
     - Calcular IMC: Faz o cálculo do IMC da pessoa com base na altura (em metro) e peso (em kg).
